@@ -15,7 +15,7 @@ layout:
 
 # Content Specialist | Junior/Mid
 
-Per candidarti, compila la tua application: [https://bit.ly/presago-content-specialist-202507](https://bit.ly/presago-content-specialist-202507)
+Per candidarti, completa il breve [assignment di prova](test-assignment.md) e compila la tua application: [https://bit.ly/presago-content-specialist-202507](https://bit.ly/presago-content-specialist-202507)
 
 **Presago** è una startup innovativa italiana specializzata in integrazioni software e servizi **SaaS** in ambito B2B nel **mercato internazionale**.
 
@@ -52,4 +52,4 @@ Stiamo cercando un Content Specialist Junior/Mid full-time, con il talento e l'e
 * Ti inserirai in un progetto da Settembre a Natale, con prospettiva di collaborazione a lungo termine.
 * Il budget va da €4000 a €7000 in base al contributo che puoi dare al progetto con le tue competenze.
 
-Per candidarti, compila la tua application: [https://bit.ly/presago-content-specialist-202507](https://bit.ly/presago-content-specialist-202507)
+Per candidarti, completa il breve [assignment di prova](test-assignment.md) e compila la tua application: [https://bit.ly/presago-content-specialist-202507](https://bit.ly/presago-content-specialist-202507)
