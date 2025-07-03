@@ -4,7 +4,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Content Specialist | Junior/Mid
+# Content Specialist (Junior/Mid, Full-Remote, Italy)
 
 Per candidarti, completa il breve [assignment di prova](test-assignment.md) e compila la tua application: [https://bit.ly/presago-content-specialist-202507](https://bit.ly/presago-content-specialist-202507)
 
