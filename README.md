@@ -13,9 +13,7 @@ layout:
     visible: false
 ---
 
-# Work with Presago
-
-Welcome!
+# Welcome!
 
 Feel free to look around and browse our open positions.
 
