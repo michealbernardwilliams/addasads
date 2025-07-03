@@ -4,7 +4,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -13,13 +13,13 @@ layout:
     visible: true
 ---
 
-# Content Specialist (Junior/Mid, Full-Remote, Italy)
+# Content Specialist (Junior/Mid, Italy)
 
-Per candidarti, completa il breve [assignment di prova](test-assignment.md) e compila la tua application: [https://bit.ly/presago-content-specialist-202507](https://bit.ly/presago-content-specialist-202507)
-
+{% hint style="info" %}
 **Presago** è una startup innovativa italiana specializzata in integrazioni software e servizi **SaaS** in ambito B2B nel **mercato internazionale**.
+{% endhint %}
 
-Stiamo cercando un Content Specialist Junior/Mid full-time, con il talento e l'entusiasmo per raccontare chi siamo e dare voce al nostro brand nei canali di comunicazione digitale.
+Cerchiamo un Content Specialist Junior/Mid full-time, con il talento e l'entusiasmo per raccontare chi siamo e dare voce al nostro brand nei canali di comunicazione digitale.
 
 #### Obiettivi
 
